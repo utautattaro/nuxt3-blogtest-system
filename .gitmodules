@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/utautattaro/nuxt3-blogtest-content.git
